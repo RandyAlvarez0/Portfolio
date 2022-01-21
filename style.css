@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(21, 255, 0);
+}
+
+.top-container {
+    color: blue;
+    position: static;
+    background-color: rgb(228, 19, 19);
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
